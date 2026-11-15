@@ -1,0 +1,21 @@
+{
+  "holdout_rows": 154,
+  "accuracy": 0.7402597402597403,
+  "balanced_accuracy": 0.7361111111111112,
+  "precision": 0.609375,
+  "sensitivity": 0.7222222222222222,
+  "specificity": 0.75,
+  "roc_auc": 0.8218518518518518,
+  "average_precision": 0.7086580499483447,
+  "confusion_matrix": {
+    "true_negative": 75,
+    "false_positive": 25,
+    "false_negative": 15,
+    "true_positive": 39
+  },
+  "dataset_rows": 768,
+  "outcome_counts": {
+    "0": 500,
+    "1": 268
+  }
+}
